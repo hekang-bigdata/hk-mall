@@ -1,6 +1,6 @@
 package com.kk.code.mall.controller;
 
-import com.kk.code.mall.common.DataResult;
+import com.kk.code.mall.common.api.DataResult;
 import com.kk.code.mall.service.IUmsMemberService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

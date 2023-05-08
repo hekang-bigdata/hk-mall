@@ -1,6 +1,6 @@
 package com.kk.code.mall.controller;
 
-import com.kk.code.mall.common.DataResult;
+import com.kk.code.mall.common.api.DataResult;
 import com.kk.code.mall.dto.UmsAdminLoginParam;
 import com.kk.code.mall.entity.UmsAdmin;
 import com.kk.code.mall.entity.UmsPermission;

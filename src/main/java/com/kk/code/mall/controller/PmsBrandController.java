@@ -2,7 +2,7 @@ package com.kk.code.mall.controller;
 
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.kk.code.mall.common.DataResult;
+import com.kk.code.mall.common.api.DataResult;
 import com.kk.code.mall.entity.PmsBrand;
 import com.kk.code.mall.service.IPmsBrandService;
 import io.swagger.annotations.Api;

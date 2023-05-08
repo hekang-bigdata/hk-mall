@@ -1,6 +1,6 @@
 package com.kk.code.mall.service;
 
-import com.kk.code.mall.common.DataResult;
+import com.kk.code.mall.common.api.DataResult;
 
 /**
  * @ProjectName: hk-mall

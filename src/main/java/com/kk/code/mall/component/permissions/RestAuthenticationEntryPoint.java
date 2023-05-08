@@ -1,7 +1,7 @@
 package com.kk.code.mall.component.permissions;
 
 import cn.hutool.json.JSONUtil;
-import com.kk.code.mall.common.DataResult;
+import com.kk.code.mall.common.api.DataResult;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.AuthenticationEntryPoint;
 import org.springframework.stereotype.Component;

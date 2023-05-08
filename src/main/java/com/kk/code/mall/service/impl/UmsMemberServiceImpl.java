@@ -1,6 +1,6 @@
 package com.kk.code.mall.service.impl;
 
-import com.kk.code.mall.common.DataResult;
+import com.kk.code.mall.common.api.DataResult;
 import com.kk.code.mall.service.IUmsMemberService;
 import com.kk.code.mall.service.RedisService;
 import org.apache.commons.lang3.StringUtils;

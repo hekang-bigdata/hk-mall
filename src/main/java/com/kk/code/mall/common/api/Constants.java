@@ -1,4 +1,4 @@
-package com.kk.code.mall.common;
+package com.kk.code.mall.common.api;
 
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;

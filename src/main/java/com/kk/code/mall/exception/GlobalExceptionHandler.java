@@ -1,6 +1,6 @@
 package com.kk.code.mall.exception;
 
-import com.kk.code.mall.common.DataResult;
+import com.kk.code.mall.common.api.DataResult;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.ObjectError;
