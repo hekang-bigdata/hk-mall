@@ -1,4 +1,4 @@
-package com.kk.code.mall.common;
+package com.kk.code.mall.common.utlis;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.annotation.IdType;
