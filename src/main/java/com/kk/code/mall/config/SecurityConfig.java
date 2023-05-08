@@ -1,8 +1,8 @@
 package com.kk.code.mall.config;
 
-import com.kk.code.mall.component.JwtAuthenticationTokenFilter;
-import com.kk.code.mall.component.RestAuthenticationEntryPoint;
-import com.kk.code.mall.component.RestfulAccessDeniedHandler;
+import com.kk.code.mall.component.permissions.JwtAuthenticationTokenFilter;
+import com.kk.code.mall.component.permissions.RestAuthenticationEntryPoint;
+import com.kk.code.mall.component.permissions.RestfulAccessDeniedHandler;
 import com.kk.code.mall.dto.AdminUserDetails;
 import com.kk.code.mall.entity.UmsAdmin;
 import com.kk.code.mall.entity.UmsPermission;

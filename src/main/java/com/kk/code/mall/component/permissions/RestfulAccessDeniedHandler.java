@@ -1,4 +1,4 @@
-package com.kk.code.mall.component;
+package com.kk.code.mall.component.permissions;
 
 import cn.hutool.json.JSONUtil;
 import com.kk.code.mall.common.DataResult;

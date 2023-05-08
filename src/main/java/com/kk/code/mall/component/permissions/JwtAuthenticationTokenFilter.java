@@ -1,4 +1,4 @@
-package com.kk.code.mall.component;
+package com.kk.code.mall.component.permissions;
 
 import com.kk.code.mall.common.utlis.JwtTokenUtil;
 import lombok.extern.log4j.Log4j2;
